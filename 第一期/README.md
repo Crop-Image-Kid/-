@@ -12,3 +12,12 @@
 
 ## 热点题
 皮肤主题的有哪些实现方式，各个实现方式都有哪些优缺点
+
+___
+
+## 解答
+
+[mosaice](mosaice.md)
+[liuqisakuya](liuqisakuya.md)
+[kokoroX](kokoroX.md)
+
