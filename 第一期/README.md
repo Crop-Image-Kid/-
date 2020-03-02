@@ -1,5 +1,4 @@
 # 第一期
-#分享/📌五年高考三年模拟📌
 
 ## 应用题
 1.  [两数之和](https://leetcode-cn.com/problems/two-sum/) 
@@ -17,7 +16,7 @@ ___
 
 ## 解答
 
-[mosaice](mosaice.md)
-[liuqisakuya](liuqisakuya.md)
-[kokoroX](kokoroX.md)
+- [mosaice](mosaice.md)
+- [liuqisakuya](liuqisakuya.md)
+- [kokoroX](kokoroX.md)
 
