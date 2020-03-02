@@ -1,12 +1,10 @@
 # 第一期
 
+[2020/2/25]
+
 ## 应用题
 1.  [两数之和](https://leetcode-cn.com/problems/two-sum/) 
 2.  [两数相加](https://leetcode-cn.com/problems/add-two-numbers) 
-
-* 依靠自我编写代码
-* 解析题目重点
-* 尽量搜索更多思路
 
 
 ## 热点题
