@@ -11,3 +11,11 @@
 ## 热点题
 
 如何设计单点登录系统（考虑尽可能全面）
+
+___
+
+## 解答
+
+- [mosaice](mosaice.md)
+- [liuqisakuya](liuqisakuya.md)
+- [kokoroX](kokoroX.md)
