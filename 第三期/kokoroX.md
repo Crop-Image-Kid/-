@@ -39,6 +39,7 @@ var missingNumber = function(nums) {
 // 3. 若没匹配到升序 说明整个数是降序的 直接返回升序排序的最小字典排序数
 // 4. 互换 matchLeft 和 matchRight
 // 5. 将 matchLeft 后的所有项升序排序
+// O(2n + n log n)
 /**
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
